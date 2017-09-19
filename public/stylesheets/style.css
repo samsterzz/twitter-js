@@ -57,3 +57,14 @@ code {
 .content .by {
   font-weight: bold;
 }
+
+.col-md-9 {
+  list-style-type: none;
+  line-height: 200%;
+  color: #0084b4;
+}
+
+.col-md-9 .name {
+  color: black;
+  font-weight: bold;
+}
